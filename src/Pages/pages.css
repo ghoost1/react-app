@@ -1,0 +1,69 @@
+.App {
+    text-align: center;
+    height: 100vh;
+}
+.user-menu {
+    width: 200px;
+    top: 64px;
+    position: absolute;
+    height: 100vh;
+}
+body {
+    background-color: #dfdfdf;
+    overflow-y: hidden;
+}
+.dark {
+    background-color: #32363a !important;
+    color: #fff;
+}
+.login-form {
+    margin: 0 auto;
+    width:30%;
+
+}
+.form-control {
+    margin-bottom: 20px;
+}
+.settings {
+    margin: 0 auto;
+    margin-top: 20%;
+}
+.divclass {
+    width: 500px;
+    height: 500px;
+}
+.divclass {
+    width: 500px;
+    height: 500px;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.divclass h2{
+    float: left;
+}
+.divclass p {
+    text-align: justify;
+}
+.form-switch label {
+    float: left;
+}
+.dark-mode-body {
+    background-color: #3a4352 !important;
+    color: #fff;
+}
+.user-menu-dark {
+    background-color: #363c46 !important;
+    width: 200px;
+    top: 64px;
+    position: absolute;
+    height: 100vh;
+}
+.reset-pass-form, .login-form {
+    width: 400px ;
+    position: absolute;
+    top: 45%;
+    left: 40%;
+    margin-top: -50px;
+    margin-left: -50px;
+}
+

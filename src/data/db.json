@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "123",
+      "id": 1
+    }
+  ],
+  "session": [
+    {
+      "error": "",
+      "sessionId": "e107c6f8-7c28-411c-a8a9-fb5f4584bc76",
+      "id": 1
+    }
+  ],
+  "theme": [
+    {
+      "theme_darck": false,
+      "id": 1
+    }
+  ]
+}
